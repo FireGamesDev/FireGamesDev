@@ -9,7 +9,7 @@ I'm currently learning Computer Science
 
 # Hey 👋
 
-> Currently, I am a 19-year-old university student at [ELTE](https://www.inf.elte.hu/), majoring in Computer Science. My **passion** is developing video games
+> I am a 19-year-old university student at [ELTE](https://www.inf.elte.hu/), majoring in Computer Science. My **passion** is developing video games
 
 ### 🚀 What am I skilled at?
 
