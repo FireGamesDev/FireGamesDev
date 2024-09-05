@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm a Unity Game Developer
-I develop games since 2020
+I'm a Unity Game Developer <br>
+I develop games since 2020 <br>
 I'm currently learning Computer Science
 
 
