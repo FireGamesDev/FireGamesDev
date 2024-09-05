@@ -1,4 +1,4 @@
-# 💫 About Me:
+### 💫 About Me:
 I'm a Unity Game Developer <br>
 I develop games since 2020 <br>
 I'm currently learning Computer Science
@@ -11,12 +11,11 @@ I'm currently learning Computer Science
 
 > I mostly work in the [Unity game engine](https://unity.com/) which allows me to use all of my creativity to build 2D and 3D games
 
-
 ### 🤔 Why would you choose me?
 
 > I really like to learn and I'm always open to new ideas. I ususally like working with a team, but I'm open for solo projects too! I love to give and receive feedbacks, I believe that is the best way to improve!
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📫 Contact Information
