@@ -25,6 +25,3 @@ I'm currently learning Computer Science
 - My Website: [levnemeth.com](https://levnemeth.com/)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FireGamesDev&theme=dark&hide_border=false)<br/>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
