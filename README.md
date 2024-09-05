@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on Unity games<br>I'm currently learning Computer Science
+I'm a Unity Game Developer
+I develop games since 2020
+I'm currently learning Computer Science
 
 
 ## 🌐 Socials:
