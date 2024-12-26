@@ -21,6 +21,6 @@ I'm currently learning Computer Science
 ### 📫 Contact Information
 - Email: firedevgames@gmail.com
 - Instagram: [@levente_nmth](https://www.instagram.com/levente_nmth)
-- My Website: [levnemeth.com](https://firegamesdev.github.io/Portfolio/)
+- My Website: [levnemeth portfolio](https://firegamesdev.github.io/Portfolio/)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FireGamesDev&theme=dark&hide_border=false)<br/>
